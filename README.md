@@ -8,7 +8,7 @@
 - ⏰ **Recordatorios de exámenes, entregas y eventos importantes**: ¡No vuelvas a olvidar una fecha importante!
 - ✅ ¡Y mucho más!
 
-[Descargar la app en Google Play](https://play.google.com/store/apps/details?id=com.tuapp.mipromedio)
+[Descargar la app en Google Play](https://play.google.com/store/apps/details?id=com.maquiapps.mipromedioponderado1&pcampaignid=web_share)
 
 ## 📸 Capturas de pantalla
 
