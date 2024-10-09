@@ -1,4 +1,5 @@
-# Mi Promedio <img src="https://play-lh.googleusercontent.com/4cVrMXLBusIh1f6KFLlsyaz4ip56m2tdQysDoiLc8p2eN5s9UHs3nzV2m2HCH_jw6qI=w240-h480-rw" alt="Ícono de Mi Promedio" width="50" align="right"/>
+# Mi Promedio <img src="https://play-lh.googleusercontent.com/4cVrMXLBusIh1f6KFLlsyaz4ip56m2tdQysDoiLc8p2eN5s9UHs3nzV2m2HCH_jw6qI=w240-h480-rw" alt="Ícono de Mi Promedio" width="50" style="border-radius: 15px; vertical-align: middle;" align="right"/>
+
 
 ¡Bienvenido a **Mi Promedio**! 🎓 Esta es una aplicación diseñada para ayudarte a gestionar tus asignaturas, calcular tus promedios ponderados y organizar tus eventos académicos de forma sencilla y eficiente.
 
